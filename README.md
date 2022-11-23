@@ -2,7 +2,7 @@
 
 ![allstr](./images/allstr.png)
 
-Hi, this is our ensemble model structure. As you can see, it has two sub-models, Informer and LSTM. This repo is about the code of these two models.
+Hi, this is our ensemble model structure. As you can see, it has two sub-models, Informer and LSTM. This repo is about the codes of these two models and experiments we made.
 
 In the project experiment, we combine many data sources into many datasets to test not only the robustness of the model but also the effectiveness of the data sources. By using such an experiment method, we can reduce both the bias and the variance of our model.
 
