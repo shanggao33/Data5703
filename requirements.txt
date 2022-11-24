@@ -1,0 +1,9 @@
+huggingface-hub==0.10.1
+keras==2.10.0
+nltk==3.6.5
+numpy==1.22.4
+pandas==1.3.4
+pandas-ta==0.3.14b0
+pmdarima==2.0.1
+tensorflow==2.10.0
+torch==1.12.1
