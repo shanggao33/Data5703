@@ -41,7 +41,6 @@ In general, it will work fine if you are using up-to-date Python and packages. O
 
 ```markdown
 | CPU     | Intel Core i3 9100 |
-|---------|--------------------|
 | RAM     | 16G                |
 | GPU     | Tesla P40 24G      |
 | CUDA    | 11.8               |
